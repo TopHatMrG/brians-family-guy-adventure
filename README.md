@@ -6,4 +6,4 @@ You can play it as designed, make your own changes, use as an example to make yo
 Do as you please, just credit me if you share the file.
 I am not responsible for any harm or offense caused from the use, modification, or distribution of this file.
 
-You can reach me, the creator of this file at contactgavinharris@gmail.com or on GitHub at @TopHatMrG.
+You can reach me, the creator of this file, at contactgavinharris@gmail.com or on GitHub at @TopHatMrG.
